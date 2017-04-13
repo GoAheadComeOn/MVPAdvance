@@ -6,4 +6,5 @@ package com.lsh.mvpadvance.app;
 
 public class Constants {
     //test
+    //advance 1.0 commit
 }
