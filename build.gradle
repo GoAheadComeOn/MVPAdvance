@@ -6,11 +6,14 @@ buildscript {
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:2.2.3'
+        classpath 'me.tatarka:gradle-retrolambda:3.2.0'
+        classpath 'org.greenrobot:greendao-gradle-plugin:3.2.1'
 
-        // NOTE: Do not place your application dependencies here; they belong
-        // in the individual module build.gradle files
+        // classpath 'com.codingbingo.library:gradletaskrecord:1.0.0'//追踪Gradle 任务耗时
     }
 }
+
+//apply plugin: 'com.codingbingo.gradletaskrecord'//追踪Gradle任务耗时的插件
 
 allprojects {
     repositories {
