@@ -5,4 +5,5 @@ package com.lsh.mvpadvance.app;
  */
 
 public class Constants {
+    //test
 }
