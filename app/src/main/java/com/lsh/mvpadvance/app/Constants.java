@@ -6,5 +6,5 @@ package com.lsh.mvpadvance.app;
 
 public class Constants {
     //testgit log --oneline --decorate
-    //advance 1.0 commit
+    //advance 1.0 commit  fff
 }
